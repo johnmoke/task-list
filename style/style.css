@@ -102,4 +102,5 @@ body {
 }
 .checked {
    text-decoration: line-through;
+   background-color: cornsilk;
 }
